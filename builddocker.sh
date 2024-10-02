@@ -1,0 +1,1 @@
+ docker build -t bookreservation-system/bookreservation-system-api:1.0.0 -f BookReservationSystem.WebApi/Dockerfile .           

@@ -1,0 +1,74 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated VSCode settings
+.vscode/*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Include folder if it contains project.json or .gitkeep
+!**/[Bb]in/
+!**/[Oo]bj/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotNet SDK and NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Auto-generated files by MSBuild
+*.tlog
+*.log
+
+# NuGet Packages
+*.nupkg
+**/packages
+*.snupkg
+
+# Ignore generated and temporary files
+*.dll
+*.pdb
+*.exe
+*.app
+*.log
+*.cache
+*.deploy
+*.config
+
+# Entity Framework Migrations
+[Mm]igrations/
+
+# DotNetCore files
+*.deps.json
+*.runtimeconfig.json
+*.runtimeconfig.dev.json
+*.db
+
+# Docker files
+*.dockerignore
+
+# Logs and Database
+*.log
+*.ldb
+*.mdf
+*.ldf
+
+
+
+
