@@ -23,6 +23,7 @@ bld/
 # Include folder if it contains project.json or .gitkeep
 !**/[Bb]in/
 !**/[Oo]bj/
+obj/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
